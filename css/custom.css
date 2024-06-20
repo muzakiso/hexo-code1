@@ -7,3 +7,12 @@
     left: 0 !important;
     /* 鼠标悬停是左侧缩进归零，完全显示按钮 */
   }
+  
+  [data-theme="light"] 
+body {
+  background: linear-gradient(-45deg, #fbede8, #b4cef7, #b7f9b8, #f6ced8);
+  background-size: 400% 400%;
+
+  height: 100vh;
+  background-attachment:fixed;
+}    
