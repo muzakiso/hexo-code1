@@ -6,3 +6,4 @@ The files are organized as follows:
 1. themes/hexo-theme-butterfly
 2. themes/hexo-theme-butterfly/source/css/main.css
 3. themes/hexo-theme-butterfly/source/css/main.scss
+4. use
