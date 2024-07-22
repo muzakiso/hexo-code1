@@ -7,3 +7,4 @@ The files are organized as follows:
 2. themes/hexo-theme-butterfly/source/css/main.css
 3. themes/hexo-theme-butterfly/source/css/main.scss
 4. use some pirples.
+5. themes/hexo-theme-butterfly/source/js/main.js
