@@ -9,3 +9,4 @@ The files are organized as follows:
 4. use some pirples.
 5. themes/hexo-theme-butterfly/source/js/main.js
 6. change the theme and add some plugins.
+7. themes/hexo-theme-butterfly/source/js/main.js
